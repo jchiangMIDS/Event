@@ -1,5 +1,5 @@
 # Event
-# Corpus data files: EventStatus_LDC2017T09.tgz
+Corpus data files: EventStatus_LDC2017T09.tgz
 
-# Data Processing & baseline model: societal_events_model (4).ipynb
+Data Processing & baseline model: societal_events_model (4).ipynb
 
